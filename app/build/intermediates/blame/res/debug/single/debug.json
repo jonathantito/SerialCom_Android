@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\layout_console.xml.flat",
+        "source": "C:\\projectjt\\app\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\layout_sending01010101.xml.flat",
+        "source": "C:\\projectjt1\\app\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\layout_loopback.xml.flat",
+        "source": "C:\\projectjt\\app\\src\\main\\res\\layout\\loopback.xml"
+    },
+    {
+        "merged": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\layout_sending01010101.xml.flat",
+        "source": "C:\\projectjt\\app\\src\\main\\res\\layout\\sending01010101.xml"
+    },
+    {
+        "merged": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\projectjt1\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\projectjt\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\xml_serial_port_preferences.xml.flat",
+        "source": "C:\\projectjt\\app\\src\\main\\res\\xml\\serial_port_preferences.xml"
+    },
+    {
+        "merged": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\xml_serial_port_preferences.xml.flat",
+        "source": "C:\\projectjt1\\app\\src\\main\\res\\xml\\serial_port_preferences.xml"
+    },
+    {
+        "merged": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\projectjt1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\layout_console.xml.flat",
+        "source": "C:\\projectjt1\\app\\src\\main\\res\\layout\\console.xml"
+    },
+    {
+        "merged": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\projectjt\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\layout_loopback.xml.flat",
+        "source": "C:\\projectjt1\\app\\src\\main\\res\\layout\\loopback.xml"
+    }
+]

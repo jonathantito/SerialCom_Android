@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\projectjt1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\projectjt1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,25,26,28",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "96,56,920,1009,1112",
+                        "endLines": "24,3,25,27,29",
+                        "endColumns": "10,39,88,16,18",
+                        "endOffsets": "915,91,1004,1107,1208"
+                    },
+                    "to": {
+                        "startLines": "66,87,88,89,91",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1796,2620,2660,2749,2852",
+                        "endLines": "86,87,88,90,92",
+                        "endColumns": "10,39,88,16,18",
+                        "endOffsets": "2615,2655,2744,2847,2948"
+                    }
+                },
+                {
+                    "source": "C:\\projectjt1\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "from": {
+                        "startLines": "3,35",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,926",
+                        "endLines": "34,66",
+                        "endColumns": "19,19",
+                        "endOffsets": "921,1792"
+                    },
+                    "to": {
+                        "startLines": "2,34",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,925",
+                        "endLines": "33,65",
+                        "endColumns": "19,19",
+                        "endOffsets": "920,1791"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\projectjt\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\projectjt\\app\\src\\main\\res\\values\\baudrates.xml",
+                    "from": {
+                        "startLines": "3,35",
+                        "startColumns": "4,4",
+                        "startOffsets": "56,926",
+                        "endLines": "34,66",
+                        "endColumns": "19,19",
+                        "endOffsets": "921,1792"
+                    },
+                    "to": {
+                        "startLines": "2,34",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,925",
+                        "endLines": "33,65",
+                        "endColumns": "19,19",
+                        "endOffsets": "920,1791"
+                    }
+                },
+                {
+                    "source": "C:\\projectjt\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,25,26,28",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "96,56,920,1009,1112",
+                        "endLines": "24,3,25,27,29",
+                        "endColumns": "10,39,88,16,18",
+                        "endOffsets": "915,91,1004,1107,1208"
+                    },
+                    "to": {
+                        "startLines": "66,87,88,89,91",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1796,2620,2660,2749,2852",
+                        "endLines": "86,87,88,90,92",
+                        "endColumns": "10,39,88,16,18",
+                        "endOffsets": "2615,2655,2744,2847,2948"
+                    }
+                }
+            ]
+        }
+    ]
+}
